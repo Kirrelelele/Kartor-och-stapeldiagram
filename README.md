@@ -1,0 +1,1 @@
+# Kartor-och-stapeldiagram
